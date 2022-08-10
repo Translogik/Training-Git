@@ -11,7 +11,7 @@
     1. Два 1.
 
 
-[Ссылка](https://translogik.github.io/Mamont/)
+[Синтаксис МД](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
 ![фото](https://smart-lab.ru/uploads/2022/images/05/56/11/2022/04/15/avatar_18e200_48x48.webp)
 
